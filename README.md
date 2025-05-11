@@ -1,3 +1,5 @@
+![Camping Iran Cover](./camping-cover.png)
+
 <div dir="rtl">
 
 # 🌲 سایت کمپینگ ایران - Camping Iran Website
